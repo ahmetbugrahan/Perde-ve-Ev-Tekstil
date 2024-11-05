@@ -134,3 +134,4 @@
 - **Ürünler → Kategoriler**: Her ürün yalnızca bir kategoriye ait olabilir, ancak bir kategori birden fazla ürüne sahip olabilir. Bu ilişki 1:N’dir.
 - **Siparişler → Ödemeler**: Her sipariş yalnızca bir ödeme kaydı içerebilir, ancak bir ödeme yalnızca bir siparişe bağlı olabilir. Bu ilişki 1:1’dir.
 
+![sqldiagram e-r](https://github.com/user-attachments/assets/98f7bf2f-6769-4fdc-9b7c-348142a9a9e8)
