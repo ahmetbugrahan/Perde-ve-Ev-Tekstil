@@ -1,8 +1,8 @@
 # Perde ve Ev Tekstili Satış Yönetim Sistemi
 ## Ekip Üyeleri
-- Ahmet Buğrahan Kaçar
-- Rumeysa Şifa Uluyol
-- Emre Aktaş
+- Ahmet Buğrahan Kaçar / 220260002  
+- Rumeysa Şifa Uluyol  / 220260022
+- Emre Aktaş           / 220260064
   
 ## 1. Özellikler
 
