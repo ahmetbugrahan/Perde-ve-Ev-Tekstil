@@ -5,11 +5,15 @@ Bu proje, bir perde ve ev tekstili satış mağazası için geliştirilen yönet
 
 ## Özellikler
 
-### Müşteriler
-- Ürünleri görüntüleyebilir, stok durumunu inceleyebilir.
-- Sipariş verebilir ve sipariş durumunu takip edebilir.
+### 1.1 Müşteriler
+-Ürünleri Görüntüleme: Müşteriler yalnızca mevcut ürünleri ve stok durumunu görüntüleyebilir.
+-Sipariş Verme: Müşteriler, stokta olan ürünler için sipariş verebilir. Stokta olmayan ürünler için sipariş veremez.
+-Kendi Sipariş Durumunu Takip Etme: Müşteriler yalnızca kendi sipariş durumlarını (hazırlanıyor, sevkiyat aşamasında vb.) görüntüleyebilirler.
+-Sınırlı Erişim: Müşteriler, yalnızca okuma ve sipariş oluşturma yetkisine sahiptir, stok veya ürün bilgilerini güncelleme yetkisi yoktur.
 
-### Çalışanlar
+
+
+### 1.2 Çalışanlar
 - Stok ve sipariş durumlarını güncelleyebilir, tedarik süreçlerini yönetebilir.
 
 ### Yöneticiler
