@@ -1,5 +1,9 @@
 # Perde ve Ev Tekstili Satış Yönetim Sistemi
-
+## Ekip Üyeleri
+- Ahmet Buğrahan Kaçar
+- Rumeysa Şifa Uluyol
+- Emre Aktaş
+  
 ## 1. Özellikler
 
 ### 1.1 Müşteriler
